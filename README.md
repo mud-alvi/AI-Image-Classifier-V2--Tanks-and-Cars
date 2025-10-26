@@ -2,6 +2,9 @@
 
 - This whole classifier was coded on jupyter because I found this out that it was way easier to code in modules esp for training and checking accuracy
 
+ # TO VIEW THE CLASSIFIER ITSELF
+ - just click on the website and it will take you to huggingface where I have already done the work. :)
+
   # TO CREATE THE CLASSIFIER YOUR SELF
   1. firstly create a folder called "Z_Image" on your desktop.
   2. add a "train" folder and a "cars_tanks" excel sheet which can be taken from above.
