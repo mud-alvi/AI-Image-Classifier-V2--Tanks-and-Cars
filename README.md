@@ -15,3 +15,9 @@
   7. and then let the huggingface application do the work by creating the website
   8. It will take maximum of approx 10 mins and you wiil be met by the interface where you can upload an image of your liking and the classifier will tell you if it looks like a tank or a car :O
 - so yea enjoy :)
+
+
+# Explaination about the versions 
+1. V1 :- it was the prototype version with a total of 3.2k images and an accuracy of 49%
+2. V2 :- it was the actual final pre released product featuring 6k images and an accuracy of 90.25% with more epochs and a better dataset with equal amount of images of tanks and of cars.
+3. V2.1 :- latest version (made only because i lost my orignal dataset) so I increased the dataset to the total of 12k images and also added a validation set increasing my accuracy up to 91.28%
